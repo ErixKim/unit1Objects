@@ -23,7 +23,8 @@ public class TurtleWorld
         turtle.forward(80);
         turtle.turn(180);
         turtle.forward(80);
-       
+        turtle.setBodyColor(Color.RED);
+        turtle.isVisible();
         
         
         
