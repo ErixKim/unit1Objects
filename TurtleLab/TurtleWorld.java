@@ -19,7 +19,10 @@ public class TurtleWorld
             turtle.turn(90);
             x += 10;
             turtle2.forward(y);
-            
+            turtle2.turn(45);
+            turtle2.forward(y);
+            turtle2.turn(45);
+            turtle2.forward(y);
     }
        
         
